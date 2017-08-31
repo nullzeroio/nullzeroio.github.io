@@ -10,7 +10,7 @@ description:         'A virtual bitbucket of ramblings about technology.'
 url:                 http://www.nullzero.io
 baseurl:             ''
 paginate:            5
-highlighter: true
+highlighter: 'rough'
 
 # About/contact
 author:
