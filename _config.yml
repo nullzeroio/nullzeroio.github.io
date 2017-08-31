@@ -9,7 +9,7 @@ tagline:             'A virtual bitbucket of ramblings about technology.'
 description:         'A virtual bitbucket of ramblings about technology.'
 url:                 http://www.nullzero.io
 baseurl:             ''
-paginate:            5
+paginate:            2
 highlighter:         'rouge'
 
 # About/contact
@@ -20,3 +20,5 @@ author:
 
 # Custom vars
 version:             1.0.0
+
+gems: [jekyll-paginate]

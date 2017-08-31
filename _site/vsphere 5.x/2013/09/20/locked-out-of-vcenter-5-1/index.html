@@ -11,7 +11,7 @@
 
   <title>
     
-      What's Jekyll? &middot; NullZero
+      Locked Out of vCenter 5.1 &middot; NullZero
     
   </title>
 
@@ -93,17 +93,44 @@
 
       <div class="container content">
         <div class="post">
-  <h1 class="post-title">What's Jekyll?</h1>
-  <span class="post-date">31 Dec 2013</span>
-  <p><a href="http://jekyllrb.com">Jekyll</a> is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From <a href="https://github.com/mojombo/jekyll/blob/master/README.markdown">the project’s readme</a>:</p>
+  <h1 class="post-title">Locked Out of vCenter 5.1</h1>
+  <span class="post-date">20 Sep 2013</span>
+  <p>Recently, I was called in to help a client out with a vCenter 5.1 install and came across the somewhat common issue of being locked out of vCenter (which is most common after the upgrade process). After some investigation, it appeared the proper Identity Sources were configured and SSO, in general, looked okay. After scratching our heads a bit, I decided to take a look inside the vCenter DB and verify account/group access. Since this was a clean installation, and not an upgrade, the only account in the vCenter DB was the one specified during the installation wizard. This was a SQL DB, so the table where this access can be found is in the “VMW.VPX_ACCESS” table, within the vCenter DB.</p>
 
-<blockquote>
-  <p>Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.</p>
-</blockquote>
+<p>Note: If you are going to attempt this procedure, make sure you have a good/valid backup of the entire DB that you can restore.</p>
 
-<p>It’s an immensely useful tool and one we encourage you to use here with Lanyon.</p>
+<p>To verify/modify access:</p>
 
-<p>Find out more by <a href="https://github.com/mojombo/jekyll">visiting the project on GitHub</a>.</p>
+<ol>
+  <li>
+    <p>Stop all vCenter Services</p>
+  </li>
+  <li>
+    <p>Use SQL Management Studio to connect to the DB</p>
+  </li>
+  <li>
+    <p>Expand the vCenter DB (in my case, the name is ‘VCDB’)</p>
+  </li>
+  <li>
+    <p>Expand the Tables and right click on the “VMW.VPX_ACCESS” table; select “Edit Top 200 Rows”.</p>
+  </li>
+  <li>
+    <p>You should see a single row (if this is a new install) with the group/account details that you setup as part of the install wizard, in the “PRINCIPAL” column.</p>
+  </li>
+</ol>
+
+<p><a href="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg"><img src="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg" alt="VPX_ACCESS_1" width="543" height="69" class="aligncenter size-full wp-image-429" srcset="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg 543w, http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1-300x38.jpg 300w" sizes="(max-width: 543px) 100vw, 543px" /></a></p>
+
+<ol>
+  <li>
+    <p>Make any necessary changes to the account details and close the table</p>
+  </li>
+  <li>
+    <p>Restart vCenter services and see if access has been restored</p>
+  </li>
+</ol>
+
+<p>In this particular scenario, it was found that the client entered the incorrect details during the install wizard, which is why no one was able to access vCenter.</p>
 
 </div>
 
@@ -113,18 +140,9 @@
     
       <li>
         <h3>
-          <a href="/2014/01/02/introducing-lanyon/">
-            Introducing Lanyon
-            <small>02 Jan 2014</small>
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
-          <a href="/2014/01/01/example-content/">
-            Example content
-            <small>01 Jan 2014</small>
+          <a href="/powershell/2015/02/06/worklog-powershell-module/">
+            WorkLog PowerShell Module
+            <small>06 Feb 2015</small>
           </a>
         </h3>
       </li>

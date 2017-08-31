@@ -1,30 +1,23 @@
 ---
-layout: page
+id: 6
 title: About
+date: 2011-04-26T04:18:44+00:00
+author: Kevin Kirkpatrick
+layout: page
+guid: http://vmotivated.wordpress.com/?page_id=2
 ---
+Kevin currently works for a Pittsburgh based Fortune 500 company as a Systems Administrator/Architect, primarily focusing on virtualization, storage and datacenter networking. He maintains advanced expertise of VMware, HP, NetApp and Cisco technical platforms. In between the balance of being a Dad and his work obligations, he contributes to various social technical communities, including, but not limited to, the VMware community forums, PowerShell.org forums, NetApp community forums and is a member of the local Western PA VMUG. His educational background includes a BS in Information Systems from Robert Morris University and he currently holds VMware&#8217;s VCP5-DCV certification.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+He also maintains the [PowerShell Zombie](http://www.PowerShellZombie.com) blog, which is strictly centered around all things PowerShell.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This blog is an ongoing project/effort to document issues, findings, resolutions etc., across various technical fronts, commonly encountered within a datacenter or other business/enterprise environment.
 
-There are currently two themes built on Poole:
+Feel free to connect with Kevin via any of the following platforms:
+  
+Twitter: @vN3rd
+  
+GitHub: <https://github.com/vN3rd>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+&nbsp;
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+_Disclaimer: All opinions expressed are independent from any affiliated company or organization._

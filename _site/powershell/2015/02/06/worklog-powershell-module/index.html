@@ -11,7 +11,7 @@
 
   <title>
     
-      NullZero &middot; A virtual bitbucket of ramblings about technology.
+      WorkLog PowerShell Module &middot; NullZero
     
   </title>
 
@@ -92,18 +92,10 @@
       </div>
 
       <div class="container content">
-        <div class="posts">
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="//powershell/2015/02/06/worklog-powershell-module/">
-        WorkLog PowerShell Module
-      </a>
-    </h1>
-
-    <span class="post-date">06 Feb 2015</span>
-
-    <p>As part of a new initiative, of sorts, I wanted a way to record daily accomplishments, which is something that I have thought about doing for quite some time, but never got enough motivation to actually do anything about it. That said, I decided to revisit, take action and come up with some requirements on what a workable solution would look like (for me):</p>
+        <div class="post">
+  <h1 class="post-title">WorkLog PowerShell Module</h1>
+  <span class="post-date">06 Feb 2015</span>
+  <p>As part of a new initiative, of sorts, I wanted a way to record daily accomplishments, which is something that I have thought about doing for quite some time, but never got enough motivation to actually do anything about it. That said, I decided to revisit, take action and come up with some requirements on what a workable solution would look like (for me):</p>
 
 <ul>
   <li>It needs to be easy to record entries (if it’s hard or cumbersome, it won’t have sustainability)</li>
@@ -481,67 +473,23 @@ Add-WorkLog "This is how using back-tick marks through the PowerShell console ca
 
 <h4 id="end-result">End result</h4>
 
-  </div>
-  
-  <div class="post">
-    <h1 class="post-title">
-      <a href="//vsphere%205.x/2013/09/20/locked-out-of-vcenter-5-1/">
-        Locked Out of vCenter 5.1
-      </a>
-    </h1>
-
-    <span class="post-date">20 Sep 2013</span>
-
-    <p>Recently, I was called in to help a client out with a vCenter 5.1 install and came across the somewhat common issue of being locked out of vCenter (which is most common after the upgrade process). After some investigation, it appeared the proper Identity Sources were configured and SSO, in general, looked okay. After scratching our heads a bit, I decided to take a look inside the vCenter DB and verify account/group access. Since this was a clean installation, and not an upgrade, the only account in the vCenter DB was the one specified during the installation wizard. This was a SQL DB, so the table where this access can be found is in the “VMW.VPX_ACCESS” table, within the vCenter DB.</p>
-
-<p>Note: If you are going to attempt this procedure, make sure you have a good/valid backup of the entire DB that you can restore.</p>
-
-<p>To verify/modify access:</p>
-
-<ol>
-  <li>
-    <p>Stop all vCenter Services</p>
-  </li>
-  <li>
-    <p>Use SQL Management Studio to connect to the DB</p>
-  </li>
-  <li>
-    <p>Expand the vCenter DB (in my case, the name is ‘VCDB’)</p>
-  </li>
-  <li>
-    <p>Expand the Tables and right click on the “VMW.VPX_ACCESS” table; select “Edit Top 200 Rows”.</p>
-  </li>
-  <li>
-    <p>You should see a single row (if this is a new install) with the group/account details that you setup as part of the install wizard, in the “PRINCIPAL” column.</p>
-  </li>
-</ol>
-
-<p><a href="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg"><img src="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg" alt="VPX_ACCESS_1" width="543" height="69" class="aligncenter size-full wp-image-429" srcset="http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1.jpg 543w, http://www.vmotioned.com/wp-content/uploads/2013/09/VPX_ACCESS_1-300x38.jpg 300w" sizes="(max-width: 543px) 100vw, 543px" /></a></p>
-
-<ol>
-  <li>
-    <p>Make any necessary changes to the account details and close the table</p>
-  </li>
-  <li>
-    <p>Restart vCenter services and see if access has been restored</p>
-  </li>
-</ol>
-
-<p>In this particular scenario, it was found that the client entered the incorrect details during the install wizard, which is why no one was able to access vCenter.</p>
-
-  </div>
-  
 </div>
 
-<div class="pagination">
-  
-    <span class="pagination-item older">Older</span>
-  
-  
-    <span class="pagination-item newer">Newer</span>
-  
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/vsphere%205.x/2013/09/20/locked-out-of-vcenter-5-1/">
+            Locked Out of vCenter 5.1
+            <small>20 Sep 2013</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
 </div>
-
 
       </div>
     </div>
