@@ -86,22 +86,22 @@
 <li>It needs to be easy to record entries
 
 <ul>
-<li>Use Sublime Text to create/edit GFM files for each day.</li>
+<li><em>Use Sublime Text to create/edit GFM files for each day.</em></li>
 </ul></li>
 <li>It needs to fit into my daily workflow
 
 <ul>
-<li>I already use GitHub on a daily basis for source control of various scripts, projects, modules, etc.</li>
+<li><em>I already use GitHub on a daily basis for source control of various scripts, projects, modules, etc.</em></li>
 </ul></li>
 <li>The format needs to be somewhat open/easy to move between different platforms
 
 <ul>
-<li>Again, I already use GitHub as a central source control for all of my code repositories and have that synced between my Windows and Mac systems</li>
+<li><em>Again, I already use GitHub as a central source control for all of my code repositories and have that synced between my Windows and Mac systems</em></li>
 </ul></li>
 <li>If possible, pick a solution that can sharpen a skill-set, in the process
 
 <ul>
-<li>While familiar with GitHub and GFM files, I can always use some extra practice</li>
+<li><em>While familiar with GitHub and GFM files, I can always use some extra practice</em></li>
 </ul></li>
 </ul>
 
@@ -162,8 +162,7 @@
 } # end BEGIN block
 </code></pre>
 
-<ul>
-<li>I need to get some date details and convert them to strings so that I can create a custom, standard file name as well as the date detail that will get stored in the actual file.
+<p>I need to get some date details and convert them to strings so that I can create a custom, standard file name as well as the date detail that will get stored in the actual file.</p>
 
 <ul>
 <li><code>$now</code> - Get and assign the current date information in the $now variable, so that we can use to construct our custom file format.</li>
@@ -171,7 +170,6 @@
 <li><code>$dateDay</code> - Call the .tostring() method but specify &lsquo;dddd&rsquo; in order to get the day of the week in long format, like &lsquo;Thursday&rsquo;</li>
 <li><code>$fileName</code> - Build out the actual file name string. I&rsquo;m adding the value stored in $dateFormat; then add an underscore &lsquo;_&rsquo;; then add the value stored in $dateDay; then another underscore &lsquo;_&rsquo;; finally, add the last piece &lsquo;WL.md&rsquo; (&lsquo;WL&rsquo; just stands for Work Log)</li>
 <li><code>$filePath</code> - Join the value stored in <code>$Path</code> with the value stored in <code>$fileName</code>, and the end result is the full path of the daily Work log file, which looks something like: <code>C:\Users\%USERNAME%\Documents\GitHub\WorkLog\20150205_Thursday_WL.md</code></li>
-</ul></li>
 </ul>
 
 <h3 id="process-block">PROCESS Block</h3>
