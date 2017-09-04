@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.nullzero.io/posts/2015-02-06-worklog-powershell-module/</loc>
+    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/posts/test-post/</loc>
+    <lastmod>2017-09-03T22:53:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/posts/2013-09-20-locked-out-of-vcenter-5-1/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/fixed/about/</loc>
+    <lastmod>2011-04-26T04:18:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/fixed/</loc>
+    <lastmod>2011-04-26T04:18:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/locked-out-of-vcenter/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/</loc>
+    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/posts/</loc>
+    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/sql/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/sso/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/vcenter-database/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/vsphere-5.1/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/categories/vsphere-5.x/</loc>
+    <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

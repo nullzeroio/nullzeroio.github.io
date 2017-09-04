@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fixeds on NullZero.io</title>
+    <link>http://www.nullzero.io/fixed/</link>
+    <description>Recent content in Fixeds on NullZero.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Apr 2011 04:18:44 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.nullzero.io/fixed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://www.nullzero.io/fixed/about/</link>
+      <pubDate>Tue, 26 Apr 2011 04:18:44 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/fixed/about/</guid>
+      <description>Kevin currently works for a Pittsburgh based Fortune 500 company as a Systems Administrator/Architect, primarily focusing on virtualization, storage and datacenter networking. He maintains advanced expertise of VMware, HP, NetApp and Cisco technical platforms. In between the balance of being a Dad and his work obligations, he contributes to various social technical communities, including, but not limited to, the VMware community forums, PowerShell.org forums, NetApp community forums and is a member of the local Western PA VMUG.</description>
+    </item>
+    
+  </channel>
+</rss>

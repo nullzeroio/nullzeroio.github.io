@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NullZero.io</title>
+    <link>http://www.nullzero.io/tags/</link>
+    <description>Recent content in Tags on NullZero.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Sep 2013 15:38:39 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.nullzero.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Locked Out of Vcenter</title>
+      <link>http://www.nullzero.io/tags/locked-out-of-vcenter/</link>
+      <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/locked-out-of-vcenter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sql</title>
+      <link>http://www.nullzero.io/tags/sql/</link>
+      <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sso</title>
+      <link>http://www.nullzero.io/tags/sso/</link>
+      <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/sso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vcenter Database</title>
+      <link>http://www.nullzero.io/tags/vcenter-database/</link>
+      <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/vcenter-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsphere 5.1</title>
+      <link>http://www.nullzero.io/tags/vsphere-5.1/</link>
+      <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/vsphere-5.1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
