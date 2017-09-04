@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scripting on NullZero.io</title>
+    <link>http://www.nullzero.io/tags/scripting/</link>
+    <description>Recent content in Scripting on NullZero.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Sep 2013 23:57:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.nullzero.io/tags/scripting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerShell HTML Disk Space Report</title>
+      <link>http://www.nullzero.io/posts/posh-html-disk-space-report/</link>
+      <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/posh-html-disk-space-report/</guid>
+      <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
+    </item>
+    
+  </channel>
+</rss>

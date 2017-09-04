@@ -21,5 +21,14 @@
  It needs to be easy to record entries (if it&amp;rsquo;s hard or cumbersome, it won&amp;rsquo;t have sustainability) It needs to fit into my daily workflow The format needs to be somewhat open/easy to move between different platforms (Mainly Windows &amp;amp; Mac OS) If possible, pick a solution that can sharpen a skill-set, in the process  Given each of those, my final solution ended up being quite simple: GitHub and GitHub Flavored Markdown (GFM) files.</description>
     </item>
     
+    <item>
+      <title>PowerShell HTML Disk Space Report</title>
+      <link>http://www.nullzero.io/posts/posh-html-disk-space-report/</link>
+      <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/posh-html-disk-space-report/</guid>
+      <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
+    </item>
+    
   </channel>
 </rss>

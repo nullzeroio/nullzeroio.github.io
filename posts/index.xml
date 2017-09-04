@@ -41,5 +41,14 @@ Thanks!</description>
       <description>Recently, I was called in to help a client out with a vCenter 5.1 install and came across the somewhat common issue of being locked out of vCenter (which is most common after the upgrade process). After some investigation, it appeared the proper Identity Sources were configured and SSO, in general, looked okay. After scratching our heads a bit, I decided to take a look inside the vCenter DB and verify account/group access.</description>
     </item>
     
+    <item>
+      <title>PowerShell HTML Disk Space Report</title>
+      <link>http://www.nullzero.io/posts/posh-html-disk-space-report/</link>
+      <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/posh-html-disk-space-report/</guid>
+      <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
+    </item>
+    
   </channel>
 </rss>

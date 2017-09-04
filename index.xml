@@ -42,6 +42,15 @@ Thanks!</description>
     </item>
     
     <item>
+      <title>PowerShell HTML Disk Space Report</title>
+      <link>http://www.nullzero.io/posts/posh-html-disk-space-report/</link>
+      <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/posh-html-disk-space-report/</guid>
+      <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://www.nullzero.io/about/</link>
       <pubDate>Tue, 26 Apr 2011 04:18:44 +0000</pubDate>
@@ -50,15 +59,6 @@ Thanks!</description>
       <description>This blog is an ongoing project/effort to document issues, findings, resolutions etc., across various technical fronts, commonly encountered within a datacenter or other business/enterprise environment.
 More content coming soon!
 Disclaimer: All opinions expressed are independent from any affiliated company or organization.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://www.nullzero.io/fixed/about/</link>
-      <pubDate>Tue, 26 Apr 2011 04:18:44 +0000</pubDate>
-      
-      <guid>http://www.nullzero.io/fixed/about/</guid>
-      <description>Kevin currently works for a Pittsburgh based Fortune 500 company as a Systems Administrator/Architect, primarily focusing on virtualization, storage and datacenter networking. He maintains advanced expertise of VMware, HP, NetApp and Cisco technical platforms. In between the balance of being a Dad and his work obligations, he contributes to various social technical communities, including, but not limited to, the VMware community forums, PowerShell.org forums, NetApp community forums and is a member of the local Western PA VMUG.</description>
     </item>
     
   </channel>
