@@ -169,7 +169,7 @@
 <li><code>$dateFormat</code> - Call the .tostring() method on the $now variable and format the output so it will look like &lsquo;20150205&rsquo;</li>
 <li><code>$dateDay</code> - Call the .tostring() method but specify &lsquo;dddd&rsquo; in order to get the day of the week in long format, like &lsquo;Thursday&rsquo;</li>
 <li><code>$fileName</code> - Build out the actual file name string. I&rsquo;m adding the value stored in $dateFormat; then add an underscore <code>_</code>; then add the value stored in $dateDay; then another underscore <code>_</code>; finally, add the last piece &lsquo;WL.md&rsquo; (&lsquo;WL&rsquo; just stands for Work Log)</li>
-<li><code>$filePath</code> - Join the value stored in <code>$Path</code> with the value stored in <code>$fileName</code>, and the end result is the full path of the daily Work log file, which looks something like: <strong>x<code>C:\Users\%USERNAME%\Documents\GitHub\WorkLog\20150205_Thursday_WL.md</code></strong></li>
+<li><code>$filePath</code> - Join the value stored in <code>$Path</code> with the value stored in <code>$fileName</code>, and the end result is the full path of the daily Work log file, which looks something like: <strong><code>C:\Users\%USERNAME%\Documents\GitHub\WorkLog\20150205_Thursday_WL.md</code></strong></li>
 </ul>
 
 <h3 id="process-block">PROCESS Block</h3>
@@ -261,30 +261,30 @@
 
 <pre><code>BEGIN {
 
-		$now        = Get-Date
-		$dateFormat = $now.tostring('yyyyMMdd')
-		$dateDay    = $now.tostring('dddd')
-		$fileName   = $dateFormat + '_' + $dateDay + '_' + 'WL.md'
-		$filePath   = Join-Path $Path $fileName
-		$nowLong    = $now.tostring('D')
+  $now        = Get-Date
+  $dateFormat = $now.tostring('yyyyMMdd')
+  $dateDay    = $now.tostring('dddd')
+  $fileName   = $dateFormat + '_' + $dateDay + '_' + 'WL.md'
+  $filePath   = Join-Path $Path $fileName
+  $nowLong    = $now.tostring('D')
 
-		function Add-Indent {
-			[cmdletbinding()]
-			param (
-				[parameter(Mandatory = $true)]
-				[System.String]$Level
-			)
+  function Add-Indent {
+      [cmdletbinding()]
+      param (
+          [parameter(Mandatory = $true)]
+          [System.String]$Level
+      )
 
-			switch ($Level) {
-				'1' { '  * ' }
-				'2' { '    * ' }
-				'3' { '      * ' }
-				'4' { '        * ' }
-			} # end switch
+      switch ($Level) {
+          '1' { '  * ' }
+          '2' { '    * ' }
+          '3' { '      * ' }
+          '4' { '        * ' }
+      } # end switch
 
-		} # end function indent
+  } # end function indent
 
-	} # end BEGIN block
+} # end BEGIN block
 </code></pre>
 
 <ul>
