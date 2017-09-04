@@ -81,64 +81,9 @@
   <section id="js-article" class="p-article__body">
     <p>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition. Sample output, below.</p>
 
-<script src="https://gist.github.com/vScripter/976b02c4b4cd3cbc20a255369713662c.js"></script>
-
 <p><img src="https://raw.githubusercontent.com/nullzeroio/blog-source/master/static/public/img/report_demo_output.jpg" alt="Demo Output" /></p>
 
-<pre><code>&lt;#
-        HTML Server Disk Usage Report Script
-        Kevin Kirkpatrick
-        nullzero.io
-        Created 7/31/2013
-
-        This report, as currently written, is meant to create and save the HTML report in a location of your Choosing.
-        If attaching the HTML report is desired, edit the EMail settings attachemtn location variable and go to the
-        bottom of the script and un-comment the attachment options.
-#&gt;
-
-# Custom HTML Report Formatting
-$html = &quot;&lt;style&gt;&quot;
-$html = $html + &quot;BODY{background-color:White;}&quot;
-$html = $html + &quot;TABLE{border-width: 1px;border-style: solid;border-color: black;border-collapse: collapse;}&quot;
-$html = $html + &quot;TH{border-width: 1px;padding: 0px;border-style: solid;border-color: LightGrey;background-color:#F0E68C}&quot;
-$html = $html + &quot;TD{border-width: 1px;padding: 0px;border-style: solid;border-color: LightGrey;background-color:#FAFAD2}&quot;
-$html = $html + &quot;&lt;/style&gt;&quot;
-
-# Script Variables
-$Servers               = (gc &quot;\\uncpath\to\servers.txt&quot;)
-$ErrorActionPreference = &quot;SilentlyContinue&quot;
-$SizeInGB              = @{Name = &quot;Size(GB)&quot;; Expression      = {&quot;{0:N2}&quot; -f ($_.Size/1GB)}}
-$FreespaceInGB         = @{Name = &quot;Freespace(GB)&quot;; Expression = {&quot;{0:N2}&quot; -f ($_.Freespace/1GB)}}
-$PercentFree           = @{name = &quot;PercentFree(%)&quot;; Expression={[int](($_.FreeSpace/$_.Size)*100)}}
-
-#Email settings Variables
-$Recipients = &quot;report_recipients@company.com&quot;
-$Sender     = &quot;ServerDiskReport@company.com&quot;
-$SMTPServer = &quot;smtpserver.company.com&quot;
-#$AttachmentFile=&quot;\\uncpath\to\ServerDiskSpaceReport--$(( get-date ).ToString('yyyyMMdd')).html&quot;
-
-#Script Body
-Write-Output &quot;Gathering Disk Usage Information...&quot;
-gwmi -query &quot;SELECT SystemName,Caption,VolumeName,Size,Freespace FROM win32_logicaldisk WHERE DriveType=3&quot; -computer $Servers |
-Select-Object SystemName,Caption,VolumeName,$SizeInGB,$FreespaceInGB,$PercentFree |
-sort-object &quot;PercentFree(%)&quot; |
-ConvertTo-Html -as table -head $html -body &quot;&lt;H2&gt;Server Disk Space Report&lt;/H2&gt;&quot; |
-Out-File &quot;\\uncpath\to\ServerDiskSpaceReport--$(( get-date ).ToString('yyyyMMdd')).html&quot;
-
-
-
-# The attachment option has been commented out. Uncomment to enable attaching the HTML report to a message.
-$smtpServer  = $SMTPServer
-$msg         = new-object Net.Mail.MailMessage
-#$att        = new-object Net.Mail.Attachment($AttachmentFile)
-$smtp        = new-object Net.Mail.SmtpClient($smtpServer)
-$msg.From    = $Sender
-$msg.BCC.Add($Recipients)
-$msg.Subject = &quot;Server Disk Usage Report&quot;
-$msg.Body    = &quot;The most recent Server Disk Space report has been posted at the following URL: http:// &quot;
-#$msg.Attachments.Add($att)
-$smtp.Send($msg)
-</code></pre>
+<script src="https://gist.github.com/vScripter/976b02c4b4cd3cbc20a255369713662c.js"></script>
 
   </section>
   <footer>
