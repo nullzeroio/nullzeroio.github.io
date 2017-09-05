@@ -20,5 +20,15 @@
       <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
     </item>
     
+    <item>
+      <title>PsTools &amp;#8211; Auto Accept EULA</title>
+      <link>http://www.nullzero.io/posts/pstools-auto-accept-eula/</link>
+      <pubDate>Wed, 14 Dec 2011 13:44:13 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/pstools-auto-accept-eula/</guid>
+      <description>When using or scripting anything from the PsTools suite it can sometimes be an inconvenience to have the EULA appear the first time you run any given tool on a system. In order to avoid this, simply append the /accepteula switch to your command and it will automatically accept and allow the script/command to run.
+pslist /accepteula  </description>
+    </item>
+    
   </channel>
 </rss>

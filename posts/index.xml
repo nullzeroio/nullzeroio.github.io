@@ -95,12 +95,44 @@ sudo /etc/rc.d/./sshd start   Thats it; done.</description>
     </item>
     
     <item>
+      <title>PsTools &amp;#8211; Auto Accept EULA</title>
+      <link>http://www.nullzero.io/posts/pstools-auto-accept-eula/</link>
+      <pubDate>Wed, 14 Dec 2011 13:44:13 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/pstools-auto-accept-eula/</guid>
+      <description>When using or scripting anything from the PsTools suite it can sometimes be an inconvenience to have the EULA appear the first time you run any given tool on a system. In order to avoid this, simply append the /accepteula switch to your command and it will automatically accept and allow the script/command to run.
+pslist /accepteula  </description>
+    </item>
+    
+    <item>
       <title>Leveraging PowerShell</title>
       <link>http://www.nullzero.io/posts/leveraging-powershell/</link>
       <pubDate>Thu, 22 Sep 2011 12:46:44 +0000</pubDate>
       
       <guid>http://www.nullzero.io/posts/leveraging-powershell/</guid>
       <description>While I am no seasoned veteran with PowerShell, I have been using it heavily for the past 6 months or so to help automate tasks and increase the speed of my system management workflow. I have recently noticed that not many admins that I have been talking to, in and out of my place of work, are really leveraging what it has to offer. I realized that looking at an example .</description>
+    </item>
+    
+    <item>
+      <title>Linux Command Line System Tools</title>
+      <link>http://www.nullzero.io/posts/linux-command-line-system-tools/</link>
+      <pubDate>Tue, 28 Jun 2011 16:14:57 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/linux-command-line-system-tools/</guid>
+      <description>Below is a link to a document that contains some useful Linux system management command line utilities. Note, these may not work on every distribution of Linux but I have currently tested them on a few of my VM based servers which are running Ubuntu Server 10.04 LTS (Lucid Lynx). I will be updating this document ad-hoc as I find things that are useful.
+Linux Management Commands
+[Last updated 6/28/11]</description>
+    </item>
+    
+    <item>
+      <title>Useful VMware Commands</title>
+      <link>http://www.nullzero.io/posts/2011-05-29-useful-commands/</link>
+      <pubDate>Sun, 29 May 2011 01:59:37 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/2011-05-29-useful-commands/</guid>
+      <description>The link below points to a Google Spreadsheet that is always being updated. Bookmark, if you wish, and check back every now and again for new commands.
+VMware Useful Commands
+Updated: 7/21/2011</description>
     </item>
     
   </channel>

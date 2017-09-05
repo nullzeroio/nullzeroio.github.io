@@ -43,13 +43,34 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/pstools-auto-accept-eula/</loc>
+    <lastmod>2011-12-14T13:44:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/posts/leveraging-powershell/</loc>
     <lastmod>2011-09-22T12:46:44+00:00</lastmod>
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/linux-command-line-system-tools/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/posts/2011-05-29-useful-commands/</loc>
+    <lastmod>2011-05-29T01:59:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/about/</loc>
     <lastmod>2011-04-26T04:18:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/10.04/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -82,6 +103,12 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/command-line/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/esxi/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
     <priority>0</priority>
@@ -106,8 +133,32 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/linux-command-line/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/linux-server/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/linux-terminal/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/locked-out-of-vcenter/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/lucid-lynx/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -202,8 +253,26 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/pstools/</loc>
+    <lastmod>2011-12-14T13:44:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/script-command/</loc>
+    <lastmod>2011-12-14T13:44:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/scripting/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/categories/scripting/</loc>
+    <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,7 +332,19 @@
   
   <url>
     <loc>http://www.nullzero.io/tags/</loc>
-    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/ubuntu/</loc>
+    <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/categories/useful-commands/</loc>
+    <lastmod>2011-05-29T01:59:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -310,6 +391,12 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/categories/vsphere-4.x/</loc>
+    <lastmod>2011-05-29T01:59:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/vsphere-5.1/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
@@ -318,6 +405,12 @@
   <url>
     <loc>http://www.nullzero.io/categories/vsphere-5.x/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/windows/</loc>
+    <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
