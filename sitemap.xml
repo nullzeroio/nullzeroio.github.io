@@ -28,6 +28,11 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/posts/nexus-1000v-max-ports/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
   </url>
@@ -35,6 +40,12 @@
   <url>
     <loc>http://www.nullzero.io/about/</loc>
     <lastmod>2011-04-26T04:18:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/alignment/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -61,8 +72,38 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/categories/linux/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/locked-out-of-vcenter/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/mbr/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/mbralign/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/netapp/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/categories/netapp/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -145,6 +186,12 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/shell/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/slow-mouse-in-vm-console/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
@@ -157,14 +204,26 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/ssh/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/sso/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/suse/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/</loc>
-    <lastmod>2011-12-14T21:15:54+00:00</lastmod>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,6 +240,18 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/vmdk/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/vmdk-alignment/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/vmware/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
@@ -188,7 +259,7 @@
   
   <url>
     <loc>http://www.nullzero.io/categories/vmware/</loc>
-    <lastmod>2011-12-14T21:15:54+00:00</lastmod>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   

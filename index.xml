@@ -63,6 +63,19 @@ Thanks!</description>
     </item>
     
     <item>
+      <title>MBR Align VM &amp;#8211; Enabling SSH</title>
+      <link>http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</link>
+      <pubDate>Wed, 14 Dec 2011 21:39:13 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</guid>
+      <description>I got real sick and tired of the left click getting stuck in my MBR Align guest, midway through a vmdk alignment. While I did see some fixes, all I really needed was SSH enabled so I could run the necessary utilities from the command line.
+To enable SSH on the MBR Align Suse VM, do the following:
+ Open the shell
+ Enter the below command:
+sudo /etc/rc.d/./sshd start   Thats it; done.</description>
+    </item>
+    
+    <item>
       <title>Nexus 1000v Max-Ports</title>
       <link>http://www.nullzero.io/posts/nexus-1000v-max-ports/</link>
       <pubDate>Wed, 14 Dec 2011 21:15:54 +0000</pubDate>
