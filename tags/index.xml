@@ -21,11 +21,38 @@
     </item>
     
     <item>
+      <title>Backup</title>
+      <link>http://www.nullzero.io/tags/backup/</link>
+      <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/backup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cisco 1000v</title>
       <link>http://www.nullzero.io/tags/cisco-1000v/</link>
       <pubDate>Wed, 14 Dec 2011 21:15:54 +0000</pubDate>
       
       <guid>http://www.nullzero.io/tags/cisco-1000v/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esxi</title>
+      <link>http://www.nullzero.io/tags/esxi/</link>
+      <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/esxi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host Configuration</title>
+      <link>http://www.nullzero.io/tags/host-configuration/</link>
+      <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/host-configuration/</guid>
       <description></description>
     </item>
     
@@ -107,6 +134,15 @@
       <pubDate>Wed, 14 Dec 2011 21:15:54 +0000</pubDate>
       
       <guid>http://www.nullzero.io/tags/port-profiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Powercli</title>
+      <link>http://www.nullzero.io/tags/powercli/</link>
+      <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/tags/powercli/</guid>
       <description></description>
     </item>
     
