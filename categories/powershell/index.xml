@@ -20,5 +20,14 @@
       <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
     </item>
     
+    <item>
+      <title>Leveraging PowerShell</title>
+      <link>http://www.nullzero.io/posts/leveraging-powershell/</link>
+      <pubDate>Thu, 22 Sep 2011 12:46:44 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/leveraging-powershell/</guid>
+      <description>While I am no seasoned veteran with PowerShell, I have been using it heavily for the past 6 months or so to help automate tasks and increase the speed of my system management workflow. I have recently noticed that not many admins that I have been talking to, in and out of my place of work, are really leveraging what it has to offer. I realized that looking at an example .</description>
+    </item>
+    
   </channel>
 </rss>

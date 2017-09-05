@@ -84,5 +84,14 @@ sudo /etc/rc.d/./sshd start   Thats it; done.</description>
       <description>I have been meaning to post something about this for a little while. When deploying the Nexus 1000v, don&amp;rsquo;t forget to set the &amp;lsquo;Max-Ports&amp;rsquo; setting for each of your port-profiles. By default, the 1000v sets each port-profile up with only 32 ports. This presents a problem, for example, when you try to deploy your 33rd guest and you get an error that says that you are out of virtual ports. Not to worry, the fix easy and non-disruptive to anything already running in your environment.</description>
     </item>
     
+    <item>
+      <title>Leveraging PowerShell</title>
+      <link>http://www.nullzero.io/posts/leveraging-powershell/</link>
+      <pubDate>Thu, 22 Sep 2011 12:46:44 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/leveraging-powershell/</guid>
+      <description>While I am no seasoned veteran with PowerShell, I have been using it heavily for the past 6 months or so to help automate tasks and increase the speed of my system management workflow. I have recently noticed that not many admins that I have been talking to, in and out of my place of work, are really leveraging what it has to offer. I realized that looking at an example .</description>
+    </item>
+    
   </channel>
 </rss>

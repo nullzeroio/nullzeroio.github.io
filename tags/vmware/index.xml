@@ -36,5 +36,14 @@ To enable SSH on the MBR Align Suse VM, do the following:
 sudo /etc/rc.d/./sshd start   Thats it; done.</description>
     </item>
     
+    <item>
+      <title>Leveraging PowerShell</title>
+      <link>http://www.nullzero.io/posts/leveraging-powershell/</link>
+      <pubDate>Thu, 22 Sep 2011 12:46:44 +0000</pubDate>
+      
+      <guid>http://www.nullzero.io/posts/leveraging-powershell/</guid>
+      <description>While I am no seasoned veteran with PowerShell, I have been using it heavily for the past 6 months or so to help automate tasks and increase the speed of my system management workflow. I have recently noticed that not many admins that I have been talking to, in and out of my place of work, are really leveraging what it has to offer. I realized that looking at an example .</description>
+    </item>
+    
   </channel>
 </rss>
