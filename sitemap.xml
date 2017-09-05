@@ -59,13 +59,13 @@
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/cisco-1000v/</loc>
+    <loc>http://www.nullzero.io/categories/cisco-1000v/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/cisco-1000v/</loc>
+    <loc>http://www.nullzero.io/tags/cisco-1000v/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -101,13 +101,13 @@
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/netapp/</loc>
+    <loc>http://www.nullzero.io/categories/netapp/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/netapp/</loc>
+    <loc>http://www.nullzero.io/tags/netapp/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -155,14 +155,14 @@
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/powershell/</loc>
-    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
+    <loc>http://www.nullzero.io/categories/powershell/</loc>
+    <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/powershell/</loc>
-    <lastmod>2013-09-11T23:57:58+00:00</lastmod>
+    <loc>http://www.nullzero.io/tags/powershell/</loc>
+    <lastmod>2015-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,14 +263,14 @@
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vmware/</loc>
-    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
+    <loc>http://www.nullzero.io/categories/vmware/</loc>
+    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/vmware/</loc>
-    <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <loc>http://www.nullzero.io/tags/vmware/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
