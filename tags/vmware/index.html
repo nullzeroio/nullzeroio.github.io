@@ -58,6 +58,29 @@
 
 <article class="c-article p-list-article">
   <header>
+    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/">Testing Jumbo Frame Support on ESXi</a></h2>
+    <p class="c-article__meta">
+      Posted on
+      <time datetime="2017-09-04T00:00:00Z">
+        Sep 4, 2017
+      </time>
+    </p>
+  </header>
+  <div class="c-article__summary">
+    You will need to SSH into the host to perform these commands.
+This is the basic syntax
+vmkping -4 -d -I &lt;vmk-number&gt; -s &lt;packet-size&gt; &lt;address&gt;   This is an example using vmk3 and vmk4, which we will assume is used for storage. We will use a packet size of 8400 bytes (can&rsquo;t use 9000 b/c there won&rsquo;t be enough room to allow for IP overhead) We will assume 192.168.1.10 is the address of the storage interface  vmkping -4 -d -I vmk3 -s 8400 192.
+  </div>
+  
+  <a href="http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/" class="c-article__btn p-list-article__btn">Read more</a></li>
+  
+</article>
+
+
+
+
+<article class="c-article p-list-article">
+  <header>
     <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/">Slow Mouse in Server 2008 VM Console</a></h2>
     <p class="c-article__meta">
       Posted on

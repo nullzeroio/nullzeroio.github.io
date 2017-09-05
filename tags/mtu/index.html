@@ -4,9 +4,9 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
   
-  <title>Posts</title>
-  <meta property="og:title" content="Posts" />
-  <meta name="twitter:title" content="Posts" />
+  <title>Mtu</title>
+  <meta property="og:title" content="Mtu" />
+  <meta name="twitter:title" content="Mtu" />
   
 
   
@@ -17,7 +17,7 @@
 
   <meta name="author" content="Kevin Kirkpatrick"/>
   <meta property="og:site_name" content="NullZero.io" />
-  <meta property="og:url" content="http://www.nullzero.io/posts/" />
+  <meta property="og:url" content="http://www.nullzero.io/tags/mtu/" />
 
   
   <meta name="twitter:card" content="summary" />
@@ -53,28 +53,7 @@
   </header>
   <main class="l-main">
 
-<h2 class="c-title tag-title">Posts</h2>
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/blog-migration/">Blog Migration</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2017-09-04T00:00:00Z">
-        Sep 4, 2017
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    Stay tuned for more content as I continue to migrate posts from my old blog (vMotioned.com) over to this one. In short, I&rsquo;m migrating away from a Wordpress hosted platform over to Hugo, hosted on GitHub.
-I&rsquo;m also going to try to add some fresh content, once the migration is complete.
-Thanks!
-  </div>
-  
-</article>
-
-
+<h2 class="c-title tag-title">Mtu</h2>
 
 
 <article class="c-article p-list-article">
@@ -98,182 +77,6 @@ vmkping -4 -d -I &lt;vmk-number&gt; -s &lt;packet-size&gt; &lt;address&gt;   Thi
 </article>
 
 
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/worklog-powershell-module/">WorkLog PowerShell Module</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2015-02-06T00:00:00Z">
-        Feb 6, 2015
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    As part of a new initiative, of sorts, I wanted a way to record daily accomplishments, which is something that I have thought about doing for quite some time, but never got enough motivation to actually do anything about it. That said, I decided to revisit, take action and come up with some requirements on what a workable solution would look like (for me):
- It needs to be easy to record entries (if it&rsquo;s hard or cumbersome, it won&rsquo;t have sustainability) It needs to fit into my daily workflow The format needs to be somewhat open/easy to move between different platforms (Mainly Windows &amp; Mac OS) If possible, pick a solution that can sharpen a skill-set, in the process  Given each of those, my final solution ended up being quite simple: GitHub and GitHub Flavored Markdown (GFM) files.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/worklog-powershell-module/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/locked-out-of-vcenter-5-1/">Locked Out of vCenter 5.1</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2013-09-20T15:38:39Z">
-        Sep 20, 2013
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    Recently, I was called in to help a client out with a vCenter 5.1 install and came across the somewhat common issue of being locked out of vCenter (which is most common after the upgrade process). After some investigation, it appeared the proper Identity Sources were configured and SSO, in general, looked okay. After scratching our heads a bit, I decided to take a look inside the vCenter DB and verify account/group access.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/locked-out-of-vcenter-5-1/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/posh-html-disk-space-report/">PowerShell HTML Disk Space Report</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2013-09-11T23:57:58Z">
-        Sep 11, 2013
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/posh-html-disk-space-report/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/">Slow Mouse in Server 2008 VM Console</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2013-01-28T22:51:10Z">
-        Jan 28, 2013
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    A while back I created a note about how to fix the slow mouse issue that sometimes happens even after installing VMware tools on a Server 2008 guest. The process is as follows:
-1. Make sure VMware tools is up to date
-2. You may need to update the VM hardware versions if this fix does not work.
-3. On the guest, open up the device manager and expand the Display adapters.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/">Backing Up Host Configuration using PowerCLI</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2013-01-28T22:29:16Z">
-        Jan 28, 2013
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    An often overlooked and less prioritized thought in vSphere environments is backing up the actual host configuration. I figured it was worth a quick post, given the fact that it&rsquo;s a fairly simple process via PowerCLI. This command should be the same for all versions of vSphere/PowerCLI, but I have only tested on 4.1-5.1.
-Aside: This is just the basic command; there are plenty of other ways to automate this or use it in conjunction with another PowerCLI script; I&rsquo;ll leave that up to you.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/">MBR Align VM and Enabling SSH</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2011-12-14T21:39:13Z">
-        Dec 14, 2011
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    I got real sick and tired of the left click getting stuck in my MBR Align guest, midway through a vmdk alignment. While I did see some fixes, all I really needed was SSH enabled so I could run the necessary utilities from the command line.
-To enable SSH on the MBR Align Suse VM, do the following:
- Open the shell
- Enter the below command:
-sudo /etc/rc.d/./sshd start   Thats it; done.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/nexus-1000v-max-ports/">Nexus 1000v Max-Ports</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2011-12-14T21:15:54Z">
-        Dec 14, 2011
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    I have been meaning to post something about this for a little while. When deploying the Nexus 1000v, don&rsquo;t forget to set the &lsquo;Max-Ports&rsquo; setting for each of your port-profiles. By default, the 1000v sets each port-profile up with only 32 ports. This presents a problem, for example, when you try to deploy your 33rd guest and you get an error that says that you are out of virtual ports. Not to worry, the fix easy and non-disruptive to anything already running in your environment.
-  </div>
-  
-  <a href="http://www.nullzero.io/posts/nexus-1000v-max-ports/" class="c-article__btn p-list-article__btn">Read more</a></li>
-  
-</article>
-
-
-
-
-<article class="c-article p-list-article">
-  <header>
-    <h2 class="c-title c-article__title"><a href="http://www.nullzero.io/posts/pstools-auto-accept-eula/">PsTools - Auto Accept EULA</a></h2>
-    <p class="c-article__meta">
-      Posted on
-      <time datetime="2011-12-14T13:44:13Z">
-        Dec 14, 2011
-      </time>
-    </p>
-  </header>
-  <div class="c-article__summary">
-    When using or scripting anything from the PsTools suite it can sometimes be an inconvenience to have the EULA appear the first time you run any given tool on a system. In order to avoid this, simply append the /accepteula switch to your command and it will automatically accept and allow the script/command to run.
-pslist /accepteula  
-  </div>
-  
-</article>
-
-
 <nav class="c-pagination p-pagination">
   <div class="c-pagination__ctrl">
     <div class="c-pagination__newer">
@@ -281,11 +84,9 @@ pslist /accepteula
     </div>
     <div class="c-pagination__older">
       
-      <a href="/posts/page/2/">Older</a>
-      
     </div>
   </div>
-  <span class="c-pagination__count p-pagination__count">Page 1 of 2</span>
+  <span class="c-pagination__count p-pagination__count">Page 1 of 1</span>
 </nav>
 
 

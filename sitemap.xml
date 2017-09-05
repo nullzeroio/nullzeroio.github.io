@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</loc>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/posts/worklog-powershell-module/</loc>
     <lastmod>2015-02-06T00:00:00+00:00</lastmod>
   </url>
@@ -121,7 +126,7 @@
   
   <url>
     <loc>http://www.nullzero.io/tags/esxi/</loc>
-    <lastmod>2013-01-28T22:29:16+00:00</lastmod>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,6 +145,12 @@
   <url>
     <loc>http://www.nullzero.io/tags/ipv6/</loc>
     <lastmod>2011-06-24T02:03:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/jumboframes/</loc>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -194,6 +205,12 @@
   <url>
     <loc>http://www.nullzero.io/tags/mbralign/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/mtu/</loc>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -397,7 +414,7 @@
   
   <url>
     <loc>http://www.nullzero.io/tags/vmware/</loc>
-    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
+    <lastmod>2017-09-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
