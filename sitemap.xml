@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/posts/nexus-1000v-max-ports/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
   </url>
@@ -122,8 +127,26 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/tags/server-2008/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/server-2008-r2/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/tags/server-disk-space/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/slow-mouse-in-vm-console/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,6 +177,12 @@
   <url>
     <loc>http://www.nullzero.io/tags/vlan/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/vmware/</loc>
+    <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
