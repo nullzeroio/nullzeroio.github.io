@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>http://www.nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</loc>
+    <lastmod>2011-06-24T02:03:06+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.nullzero.io/posts/2011-05-29-useful-commands/</loc>
     <lastmod>2011-05-29T01:59:37+00:00</lastmod>
   </url>
@@ -70,6 +75,12 @@
   <url>
     <loc>http://www.nullzero.io/tags/10.04/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/10.04-server/</loc>
+    <lastmod>2011-06-24T02:03:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,6 +134,18 @@
   <url>
     <loc>http://www.nullzero.io/tags/html/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/ipv6/</loc>
+    <lastmod>2011-06-24T02:03:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nullzero.io/tags/linux/</loc>
+    <lastmod>2011-06-24T02:03:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
