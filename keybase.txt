@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kevinkirkpatrick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://nullzero.io
+  * I am kevinkirkpatrick (https://keybase.io/kevinkirkpatrick) on keybase.
+  * I have a public key ASCwuKJXhM57ZykQ4PvssRNItfn9S2v12ZHMIDKpSaRLrwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2431197b41bf1f80b21c6f86e9fb8d8cb433724f81475eef369ede2fd8f77ef0a",
+      "host": "keybase.io",
+      "kid": "0120b0b8a25784ce7b672910e0fbecb11348b5f9fd4b6bf5d991cc2032a949a44baf0a",
+      "uid": "363f3d1897056b7752661926e6b66f19",
+      "username": "kevinkirkpatrick"
+    },
+    "merkle_root": {
+      "ctime": 1504575791,
+      "hash": "2b58416e3677987c63cd8375987e8ff319da064385312baf737ea0814e0014d690bda5e7b9e44b14d8be35a9a8966481889481548345626ca664e3187b7506d6",
+      "hash_meta": "5e13641df8ac1e76957c37193a8627577a806958b2ad5a6ea18ee22bdbccdf45",
+      "seqno": 1367072
+    },
+    "service": {
+      "hostname": "nullzero.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1504575801,
+  "expire_in": 504576000,
+  "prev": "593fe0071c7fcc7df626e84594e30c37efcce5b86380ced04a697ad61755c572",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsLiiV4TOe2cpEOD77LETSLX5/Utr9dmRzCAyqUmkS68Kp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTI0MzExOTdiNDFiZjFmODBiMjFjNmY4NmU5ZmI4ZDhjYjQzMzcyNGY4MTQ3NWVlZjM2OWVkZTJmZDhmNzdlZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjBiOGEyNTc4NGNlN2I2NzI5MTBlMGZiZWNiMTEzNDhiNWY5ZmQ0YjZiZjVkOTkxY2MyMDMyYTk0OWE0NGJhZjBhIiwidWlkIjoiMzYzZjNkMTg5NzA1NmI3NzUyNjYxOTI2ZTZiNjZmMTkiLCJ1c2VybmFtZSI6Imtldmlua2lya3BhdHJpY2sifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDQ1NzU3OTEsImhhc2giOiIyYjU4NDE2ZTM2Nzc5ODdjNjNjZDgzNzU5ODdlOGZmMzE5ZGEwNjQzODUzMTJiYWY3MzdlYTA4MTRlMDAxNGQ2OTBiZGE1ZTdiOWU0NGIxNGQ4YmUzNWE5YTg5NjY0ODE4ODk0ODE1NDgzNDU2MjZjYTY2NGUzMTg3Yjc1MDZkNiIsImhhc2hfbWV0YSI6IjVlMTM2NDFkZjhhYzFlNzY5NTdjMzcxOTNhODYyNzU3N2E4MDY5NThiMmFkNWE2ZWExOGVlMjJiZGJjY2RmNDUiLCJzZXFubyI6MTM2NzA3Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJudWxsemVyby5pbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjgifSwiY3RpbWUiOjE1MDQ1NzU4MDEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNTkzZmUwMDcxYzdmY2M3ZGY2MjZlODQ1OTRlMzBjMzdlZmNjZTViODYzODBjZWQwNGE2OTdhZDYxNzU1YzU3MiIsInNlcW5vIjoxMiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDWPpULasf8gLpum3lD9/u5qvsi2CUliytfV1ybD74k6x/Y4T0vOQAMzl+xB6k0UiEtsEJ2X8327DbeHDw+aX0KqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgTL0TMSVkdFrH3bw2SjfwkygyBFp4FAiu8bSchuBopG2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kevinkirkpatrick
+
+==================================================================
