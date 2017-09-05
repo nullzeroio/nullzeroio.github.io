@@ -20,9 +20,7 @@
       <description>Step 1 Run the following command to verify if it is enabled or disabled. 0=enabled &amp;amp; 1=disabled
 cat /proc/sys/net/ipv6/conf/all/disable_ipv6  Step 2 Using vi add the following lines to /etc/sysctl.conf
 the # comment is optional but considered a best practice
-#disable ipv6 net.ipv6.conf.all.disable_ipv6 = 1 net.ipv6.conf.default.disable_ipv6 = 1 net.ipv6.conf.lo.disable_ipv6 = 1  vi Notes i Enters insert mode (editing)
-esc exits insert mode
-: followed by x saves your work and exits</description>
+#disable ipv6 net.ipv6.conf.all.disable_ipv6 = 1 net.ipv6.conf.default.disable_ipv6 = 1 net.ipv6.conf.lo.disable_ipv6 = 1  vi Notes    Command Function     i Enters insert mode (editing)   esc exits insert mode   :  followed by x saves your work and exits    Reboot and run the first command to verify that is has been disabled.</description>
     </item>
     
   </channel>
