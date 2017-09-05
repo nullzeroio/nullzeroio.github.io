@@ -79,14 +79,16 @@
   <section id="js-article" class="p-article__body">
     
 
-<ol>
-<li><p>Run the following command to verify if it is enabled or disabled. <em>0=enabled &amp; 1=disabled</em></p>
+<h3 id="step-1">Step 1</h3>
+
+<p>Run the following command to verify if it is enabled or disabled. <em>0=enabled &amp; 1=disabled</em></p>
 
 <pre><code>cat /proc/sys/net/ipv6/conf/all/disable_ipv6
-</code></pre></li>
+</code></pre>
 
-<li><p>Using <strong><code>vi</code></strong> add the following lines to <strong><code>/etc/sysctl.conf</code></strong></p></li>
-</ol>
+<h3 id="step-2">Step 2</h3>
+
+<p>Using <strong><code>vi</code></strong> add the following lines to <strong><code>/etc/sysctl.conf</code></strong></p>
 
 <p><em>the # comment is optional but considered a best practice</em></p>
 
