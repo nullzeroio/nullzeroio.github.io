@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NullZero.io</title>
-    <link>https://www.nullzero.io/categories/</link>
+    <link>https://nullzero.io/categories/</link>
     <description>Recent content in Categories on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://www.nullzero.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nullzero.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cisco 1000v</title>
-      <link>https://www.nullzero.io/categories/cisco-1000v/</link>
+      <link>https://nullzero.io/categories/cisco-1000v/</link>
       <pubDate>Wed, 14 Dec 2011 21:15:54 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/cisco-1000v/</guid>
+      <guid>https://nullzero.io/categories/cisco-1000v/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://www.nullzero.io/categories/linux/</link>
+      <link>https://nullzero.io/categories/linux/</link>
       <pubDate>Wed, 14 Dec 2011 21:39:13 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/linux/</guid>
+      <guid>https://nullzero.io/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netapp</title>
-      <link>https://www.nullzero.io/categories/netapp/</link>
+      <link>https://nullzero.io/categories/netapp/</link>
       <pubDate>Wed, 14 Dec 2011 21:39:13 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/netapp/</guid>
+      <guid>https://nullzero.io/categories/netapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Powershell</title>
-      <link>https://www.nullzero.io/categories/powershell/</link>
+      <link>https://nullzero.io/categories/powershell/</link>
       <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/powershell/</guid>
+      <guid>https://nullzero.io/categories/powershell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scripting</title>
-      <link>https://www.nullzero.io/categories/scripting/</link>
+      <link>https://nullzero.io/categories/scripting/</link>
       <pubDate>Wed, 14 Dec 2011 13:44:13 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/scripting/</guid>
+      <guid>https://nullzero.io/categories/scripting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Commands</title>
-      <link>https://www.nullzero.io/categories/useful-commands/</link>
+      <link>https://nullzero.io/categories/useful-commands/</link>
       <pubDate>Sun, 29 May 2011 01:59:37 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/useful-commands/</guid>
+      <guid>https://nullzero.io/categories/useful-commands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vmware</title>
-      <link>https://www.nullzero.io/categories/vmware/</link>
+      <link>https://nullzero.io/categories/vmware/</link>
       <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/vmware/</guid>
+      <guid>https://nullzero.io/categories/vmware/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vsphere 4.x</title>
-      <link>https://www.nullzero.io/categories/vsphere-4.x/</link>
+      <link>https://nullzero.io/categories/vsphere-4.x/</link>
       <pubDate>Sun, 29 May 2011 01:59:37 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/vsphere-4.x/</guid>
+      <guid>https://nullzero.io/categories/vsphere-4.x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vsphere 5.x</title>
-      <link>https://www.nullzero.io/categories/vsphere-5.x/</link>
+      <link>https://nullzero.io/categories/vsphere-5.x/</link>
       <pubDate>Fri, 20 Sep 2013 15:38:39 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/categories/vsphere-5.x/</guid>
+      <guid>https://nullzero.io/categories/vsphere-5.x/</guid>
       <description></description>
     </item>
     

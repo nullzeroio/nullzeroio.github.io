@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on NullZero.io</title>
-    <link>https://www.nullzero.io/tags/linux/</link>
+    <link>https://nullzero.io/tags/linux/</link>
     <description>Recent content in Linux on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2011 02:03:06 +0000</lastBuildDate>
     
-	<atom:link href="https://www.nullzero.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nullzero.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Disabling IPv6 In Ubuntu Server 10.04 LTS</title>
-      <link>https://www.nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</link>
+      <link>https://nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</link>
       <pubDate>Fri, 24 Jun 2011 02:03:06 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</guid>
+      <guid>https://nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</guid>
       <description>Step 1 Run the following command to verify if it is enabled or disabled. 0=enabled &amp;amp; 1=disabled
 cat /proc/sys/net/ipv6/conf/all/disable_ipv6  Step 2 Using vi add the following lines to /etc/sysctl.conf
 the # comment is optional but considered a best practice

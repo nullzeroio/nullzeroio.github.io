@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Powershell on NullZero.io</title>
-    <link>https://www.nullzero.io/tags/powershell/</link>
+    <link>https://nullzero.io/tags/powershell/</link>
     <description>Recent content in Powershell on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 06 Feb 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.nullzero.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nullzero.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>WorkLog PowerShell Module</title>
-      <link>https://www.nullzero.io/posts/worklog-powershell-module/</link>
+      <link>https://nullzero.io/posts/worklog-powershell-module/</link>
       <pubDate>Fri, 06 Feb 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/worklog-powershell-module/</guid>
+      <guid>https://nullzero.io/posts/worklog-powershell-module/</guid>
       <description>As part of a new initiative, of sorts, I wanted a way to record daily accomplishments, which is something that I have thought about doing for quite some time, but never got enough motivation to actually do anything about it. That said, I decided to revisit, take action and come up with some requirements on what a workable solution would look like (for me):
  It needs to be easy to record entries (if it&amp;rsquo;s hard or cumbersome, it won&amp;rsquo;t have sustainability) It needs to fit into my daily workflow The format needs to be somewhat open/easy to move between different platforms (Mainly Windows &amp;amp; Mac OS) If possible, pick a solution that can sharpen a skill-set, in the process  Given each of those, my final solution ended up being quite simple: GitHub and GitHub Flavored Markdown (GFM) files.</description>
     </item>
     
     <item>
       <title>PowerShell HTML Disk Space Report</title>
-      <link>https://www.nullzero.io/posts/posh-html-disk-space-report/</link>
+      <link>https://nullzero.io/posts/posh-html-disk-space-report/</link>
       <pubDate>Wed, 11 Sep 2013 23:57:58 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/posh-html-disk-space-report/</guid>
+      <guid>https://nullzero.io/posts/posh-html-disk-space-report/</guid>
       <description>This is a recent HTML Disk Space report that I created which outputs a generic HTML report that contains server disk/partition space details. I schedule it to run weekly, but obviously you can use as you wish. In short, in reads in a list of servers from a text file, queries WMI for disk space detail, uses some expressions to format and calculate the space and then outputs the results into a report, sorted in ascending order by the percent of free space, per partition.</description>
     </item>
     
     <item>
       <title>Leveraging PowerShell</title>
-      <link>https://www.nullzero.io/posts/leveraging-powershell/</link>
+      <link>https://nullzero.io/posts/leveraging-powershell/</link>
       <pubDate>Thu, 22 Sep 2011 12:46:44 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/leveraging-powershell/</guid>
+      <guid>https://nullzero.io/posts/leveraging-powershell/</guid>
       <description>While I am no seasoned veteran with PowerShell, I have been using it heavily for the past 6 months or so to help automate tasks and increase the speed of my system management workflow. I have recently noticed that not many admins that I have been talking to, in and out of my place of work, are really leveraging what it has to offer. I realized that looking at an example .</description>
     </item>
     

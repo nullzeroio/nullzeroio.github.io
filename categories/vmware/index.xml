@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vmware on NullZero.io</title>
-    <link>https://www.nullzero.io/categories/vmware/</link>
+    <link>https://nullzero.io/categories/vmware/</link>
     <description>Recent content in Vmware on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jan 2013 22:29:16 +0000</lastBuildDate>
     
-	<atom:link href="https://www.nullzero.io/categories/vmware/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nullzero.io/categories/vmware/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Backing Up Host Configuration using PowerCLI</title>
-      <link>https://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</link>
+      <link>https://nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</link>
       <pubDate>Mon, 28 Jan 2013 22:29:16 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</guid>
+      <guid>https://nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</guid>
       <description>An often overlooked and less prioritized thought in vSphere environments is backing up the actual host configuration. I figured it was worth a quick post, given the fact that it&amp;rsquo;s a fairly simple process via PowerCLI. This command should be the same for all versions of vSphere/PowerCLI, but I have only tested on 4.1-5.1.
 Aside: This is just the basic command; there are plenty of other ways to automate this or use it in conjunction with another PowerCLI script; I&amp;rsquo;ll leave that up to you.</description>
     </item>
     
     <item>
       <title>MBR Align VM and Enabling SSH</title>
-      <link>https://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</link>
+      <link>https://nullzero.io/posts/mbr-align-vm-enabling-ssh/</link>
       <pubDate>Wed, 14 Dec 2011 21:39:13 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</guid>
+      <guid>https://nullzero.io/posts/mbr-align-vm-enabling-ssh/</guid>
       <description>I got real sick and tired of the left click getting stuck in my MBR Align guest, midway through a vmdk alignment. While I did see some fixes, all I really needed was SSH enabled so I could run the necessary utilities from the command line.
 To enable SSH on the MBR Align Suse VM, do the following:
  Open the shell
@@ -36,10 +36,10 @@ sudo /etc/rc.d/./sshd start   Thats it; done.</description>
     
     <item>
       <title>Nexus 1000v Max-Ports</title>
-      <link>https://www.nullzero.io/posts/nexus-1000v-max-ports/</link>
+      <link>https://nullzero.io/posts/nexus-1000v-max-ports/</link>
       <pubDate>Wed, 14 Dec 2011 21:15:54 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/nexus-1000v-max-ports/</guid>
+      <guid>https://nullzero.io/posts/nexus-1000v-max-ports/</guid>
       <description>I have been meaning to post something about this for a little while. When deploying the Nexus 1000v, don&amp;rsquo;t forget to set the &amp;lsquo;Max-Ports&amp;rsquo; setting for each of your port-profiles. By default, the 1000v sets each port-profile up with only 32 ports. This presents a problem, for example, when you try to deploy your 33rd guest and you get an error that says that you are out of virtual ports. Not to worry, the fix easy and non-disruptive to anything already running in your environment.</description>
     </item>
     

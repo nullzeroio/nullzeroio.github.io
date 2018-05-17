@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ssh on NullZero.io</title>
-    <link>https://www.nullzero.io/tags/ssh/</link>
+    <link>https://nullzero.io/tags/ssh/</link>
     <description>Recent content in Ssh on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Dec 2011 21:39:13 +0000</lastBuildDate>
     
-	<atom:link href="https://www.nullzero.io/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nullzero.io/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MBR Align VM and Enabling SSH</title>
-      <link>https://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</link>
+      <link>https://nullzero.io/posts/mbr-align-vm-enabling-ssh/</link>
       <pubDate>Wed, 14 Dec 2011 21:39:13 +0000</pubDate>
       
-      <guid>https://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</guid>
+      <guid>https://nullzero.io/posts/mbr-align-vm-enabling-ssh/</guid>
       <description>I got real sick and tired of the left click getting stuck in my MBR Align guest, midway through a vmdk alignment. While I did see some fixes, all I really needed was SSH enabled so I could run the necessary utilities from the command line.
 To enable SSH on the MBR Align Suse VM, do the following:
  Open the shell
