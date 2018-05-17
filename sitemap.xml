@@ -3,453 +3,453 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</loc>
+    <loc>https://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/blog-migration/</loc>
+    <loc>https://www.nullzero.io/posts/blog-migration/</loc>
     <lastmod>2017-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/worklog-powershell-module/</loc>
+    <loc>https://www.nullzero.io/posts/worklog-powershell-module/</loc>
     <lastmod>2015-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/locked-out-of-vcenter-5-1/</loc>
+    <loc>https://www.nullzero.io/posts/locked-out-of-vcenter-5-1/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/posh-html-disk-space-report/</loc>
+    <loc>https://www.nullzero.io/posts/posh-html-disk-space-report/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</loc>
+    <loc>https://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</loc>
+    <loc>https://www.nullzero.io/posts/backing-up-host-configuration-using-powercli-5-1/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</loc>
+    <loc>https://www.nullzero.io/posts/mbr-align-vm-enabling-ssh/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/nexus-1000v-max-ports/</loc>
+    <loc>https://www.nullzero.io/posts/nexus-1000v-max-ports/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/pstools-auto-accept-eula/</loc>
+    <loc>https://www.nullzero.io/posts/pstools-auto-accept-eula/</loc>
     <lastmod>2011-12-14T13:44:13+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/leveraging-powershell/</loc>
+    <loc>https://www.nullzero.io/posts/leveraging-powershell/</loc>
     <lastmod>2011-09-22T12:46:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/linux-command-line-system-tools/</loc>
+    <loc>https://www.nullzero.io/posts/linux-command-line-system-tools/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</loc>
+    <loc>https://www.nullzero.io/posts/disabling-ipv6-in-ubuntu-server-10-04-lts/</loc>
     <lastmod>2011-06-24T02:03:06+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/2011-05-29-useful-commands/</loc>
+    <loc>https://www.nullzero.io/posts/2011-05-29-useful-commands/</loc>
     <lastmod>2011-05-29T01:59:37+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/about/</loc>
+    <loc>https://www.nullzero.io/about/</loc>
     <lastmod>2011-04-26T04:18:44+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/10.04/</loc>
+    <loc>https://www.nullzero.io/tags/10.04/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/10.04-server/</loc>
+    <loc>https://www.nullzero.io/tags/10.04-server/</loc>
     <lastmod>2011-06-24T02:03:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/alignment/</loc>
+    <loc>https://www.nullzero.io/tags/alignment/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/backup/</loc>
+    <loc>https://www.nullzero.io/tags/backup/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/</loc>
+    <loc>https://www.nullzero.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/cisco-1000v/</loc>
+    <loc>https://www.nullzero.io/tags/cisco-1000v/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/cisco-1000v/</loc>
+    <loc>https://www.nullzero.io/categories/cisco-1000v/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/command-line/</loc>
+    <loc>https://www.nullzero.io/tags/command-line/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/esxi/</loc>
+    <loc>https://www.nullzero.io/tags/esxi/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/host-configuration/</loc>
+    <loc>https://www.nullzero.io/tags/host-configuration/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/html/</loc>
+    <loc>https://www.nullzero.io/tags/html/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/ipv6/</loc>
+    <loc>https://www.nullzero.io/tags/ipv6/</loc>
     <lastmod>2011-06-24T02:03:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/jumboframes/</loc>
+    <loc>https://www.nullzero.io/tags/jumboframes/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/linux/</loc>
+    <loc>https://www.nullzero.io/tags/linux/</loc>
     <lastmod>2011-06-24T02:03:06+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/linux/</loc>
+    <loc>https://www.nullzero.io/categories/linux/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/linux-command-line/</loc>
+    <loc>https://www.nullzero.io/tags/linux-command-line/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/linux-server/</loc>
+    <loc>https://www.nullzero.io/tags/linux-server/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/linux-terminal/</loc>
+    <loc>https://www.nullzero.io/tags/linux-terminal/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/locked-out-of-vcenter/</loc>
+    <loc>https://www.nullzero.io/tags/locked-out-of-vcenter/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/lucid-lynx/</loc>
+    <loc>https://www.nullzero.io/tags/lucid-lynx/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/mbr/</loc>
+    <loc>https://www.nullzero.io/tags/mbr/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/mbralign/</loc>
+    <loc>https://www.nullzero.io/tags/mbralign/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/mtu/</loc>
+    <loc>https://www.nullzero.io/tags/mtu/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/netapp/</loc>
+    <loc>https://www.nullzero.io/tags/netapp/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/netapp/</loc>
+    <loc>https://www.nullzero.io/categories/netapp/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/nexus/</loc>
+    <loc>https://www.nullzero.io/tags/nexus/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/nexus-1000v/</loc>
+    <loc>https://www.nullzero.io/tags/nexus-1000v/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/</loc>
+    <loc>https://www.nullzero.io/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/port-profile/</loc>
+    <loc>https://www.nullzero.io/tags/port-profile/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/port-profiles/</loc>
+    <loc>https://www.nullzero.io/tags/port-profiles/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/posts/</loc>
+    <loc>https://www.nullzero.io/posts/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/powercli/</loc>
+    <loc>https://www.nullzero.io/tags/powercli/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/powergui/</loc>
+    <loc>https://www.nullzero.io/tags/powergui/</loc>
     <lastmod>2011-09-22T12:46:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/powershell/</loc>
+    <loc>https://www.nullzero.io/tags/powershell/</loc>
     <lastmod>2015-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/powershell/</loc>
+    <loc>https://www.nullzero.io/categories/powershell/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/powershell-report/</loc>
+    <loc>https://www.nullzero.io/tags/powershell-report/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/pstools/</loc>
+    <loc>https://www.nullzero.io/tags/pstools/</loc>
     <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/script-command/</loc>
+    <loc>https://www.nullzero.io/tags/script-command/</loc>
     <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/scripting/</loc>
+    <loc>https://www.nullzero.io/tags/scripting/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/scripting/</loc>
+    <loc>https://www.nullzero.io/categories/scripting/</loc>
     <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/server-2008/</loc>
+    <loc>https://www.nullzero.io/tags/server-2008/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/server-2008-r2/</loc>
+    <loc>https://www.nullzero.io/tags/server-2008-r2/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/server-disk-space/</loc>
+    <loc>https://www.nullzero.io/tags/server-disk-space/</loc>
     <lastmod>2013-09-11T23:57:58+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/shell/</loc>
+    <loc>https://www.nullzero.io/tags/shell/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/slow-mouse-in-vm-console/</loc>
+    <loc>https://www.nullzero.io/tags/slow-mouse-in-vm-console/</loc>
     <lastmod>2013-01-28T22:51:10+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/sql/</loc>
+    <loc>https://www.nullzero.io/tags/sql/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/ssh/</loc>
+    <loc>https://www.nullzero.io/tags/ssh/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/sso/</loc>
+    <loc>https://www.nullzero.io/tags/sso/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/suse/</loc>
+    <loc>https://www.nullzero.io/tags/suse/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/</loc>
+    <loc>https://www.nullzero.io/tags/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/ubuntu/</loc>
+    <loc>https://www.nullzero.io/tags/ubuntu/</loc>
     <lastmod>2011-06-28T16:14:57+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/useful-commands/</loc>
+    <loc>https://www.nullzero.io/categories/useful-commands/</loc>
     <lastmod>2011-05-29T01:59:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vcenter-database/</loc>
+    <loc>https://www.nullzero.io/tags/vcenter-database/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vlan/</loc>
+    <loc>https://www.nullzero.io/tags/vlan/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vmdk/</loc>
+    <loc>https://www.nullzero.io/tags/vmdk/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vmdk-alignment/</loc>
+    <loc>https://www.nullzero.io/tags/vmdk-alignment/</loc>
     <lastmod>2011-12-14T21:39:13+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vmware/</loc>
+    <loc>https://www.nullzero.io/tags/vmware/</loc>
     <lastmod>2017-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/vmware/</loc>
+    <loc>https://www.nullzero.io/categories/vmware/</loc>
     <lastmod>2013-01-28T22:29:16+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vmware-max-ports/</loc>
+    <loc>https://www.nullzero.io/tags/vmware-max-ports/</loc>
     <lastmod>2011-12-14T21:15:54+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/vsphere-4.x/</loc>
+    <loc>https://www.nullzero.io/categories/vsphere-4.x/</loc>
     <lastmod>2011-05-29T01:59:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/vsphere-5.1/</loc>
+    <loc>https://www.nullzero.io/tags/vsphere-5.1/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/categories/vsphere-5.x/</loc>
+    <loc>https://www.nullzero.io/categories/vsphere-5.x/</loc>
     <lastmod>2013-09-20T15:38:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.nullzero.io/tags/windows/</loc>
+    <loc>https://www.nullzero.io/tags/windows/</loc>
     <lastmod>2011-12-14T13:44:13+00:00</lastmod>
     <priority>0</priority>
   </url>

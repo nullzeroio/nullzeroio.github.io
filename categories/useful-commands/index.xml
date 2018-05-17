@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Useful Commands on NullZero.io</title>
-    <link>http://www.nullzero.io/categories/useful-commands/</link>
+    <link>https://www.nullzero.io/categories/useful-commands/</link>
     <description>Recent content in Useful Commands on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 May 2011 01:59:37 +0000</lastBuildDate>
     
-	<atom:link href="http://www.nullzero.io/categories/useful-commands/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nullzero.io/categories/useful-commands/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Useful VMware Commands</title>
-      <link>http://www.nullzero.io/posts/2011-05-29-useful-commands/</link>
+      <link>https://www.nullzero.io/posts/2011-05-29-useful-commands/</link>
       <pubDate>Sun, 29 May 2011 01:59:37 +0000</pubDate>
       
-      <guid>http://www.nullzero.io/posts/2011-05-29-useful-commands/</guid>
+      <guid>https://www.nullzero.io/posts/2011-05-29-useful-commands/</guid>
       <description>The link below points to a Google Spreadsheet that is always being updated. Bookmark, if you wish, and check back every now and again for new commands.
 VMware Useful Commands
 Updated: 7/21/2011</description>

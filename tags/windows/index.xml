@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on NullZero.io</title>
-    <link>http://www.nullzero.io/tags/windows/</link>
+    <link>https://www.nullzero.io/tags/windows/</link>
     <description>Recent content in Windows on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Dec 2011 13:44:13 +0000</lastBuildDate>
     
-	<atom:link href="http://www.nullzero.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nullzero.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PsTools - Auto Accept EULA</title>
-      <link>http://www.nullzero.io/posts/pstools-auto-accept-eula/</link>
+      <link>https://www.nullzero.io/posts/pstools-auto-accept-eula/</link>
       <pubDate>Wed, 14 Dec 2011 13:44:13 +0000</pubDate>
       
-      <guid>http://www.nullzero.io/posts/pstools-auto-accept-eula/</guid>
+      <guid>https://www.nullzero.io/posts/pstools-auto-accept-eula/</guid>
       <description>When using or scripting anything from the PsTools suite it can sometimes be an inconvenience to have the EULA appear the first time you run any given tool on a system. In order to avoid this, simply append the /accepteula switch to your command and it will automatically accept and allow the script/command to run.
 pslist /accepteula  </description>
     </item>

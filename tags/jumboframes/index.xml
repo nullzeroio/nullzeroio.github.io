@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jumboframes on NullZero.io</title>
-    <link>http://www.nullzero.io/tags/jumboframes/</link>
+    <link>https://www.nullzero.io/tags/jumboframes/</link>
     <description>Recent content in Jumboframes on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.nullzero.io/tags/jumboframes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nullzero.io/tags/jumboframes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Testing Jumbo Frame Support on ESXi</title>
-      <link>http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</link>
+      <link>https://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</link>
       <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</guid>
+      <guid>https://www.nullzero.io/posts/testing-jumbo-frame-support-esxi/</guid>
       <description>You will need to SSH into the host to perform these commands.
 This is the basic syntax
 vmkping -4 -d -I &amp;lt;vmk-number&amp;gt; -s &amp;lt;packet-size&amp;gt; &amp;lt;address&amp;gt;   This is an example using vmk3 and vmk4, which we will assume is used for storage. We will use a packet size of 8400 bytes (can&amp;rsquo;t use 9000 b/c there won&amp;rsquo;t be enough room to allow for IP overhead) We will assume 192.168.1.10 is the address of the storage interface  vmkping -4 -d -I vmk3 -s 8400 192.</description>

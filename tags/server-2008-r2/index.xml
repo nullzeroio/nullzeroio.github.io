@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Server 2008 R2 on NullZero.io</title>
-    <link>http://www.nullzero.io/tags/server-2008-r2/</link>
+    <link>https://www.nullzero.io/tags/server-2008-r2/</link>
     <description>Recent content in Server 2008 R2 on NullZero.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jan 2013 22:51:10 +0000</lastBuildDate>
     
-	<atom:link href="http://www.nullzero.io/tags/server-2008-r2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.nullzero.io/tags/server-2008-r2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Slow Mouse in Server 2008 VM Console</title>
-      <link>http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</link>
+      <link>https://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</link>
       <pubDate>Mon, 28 Jan 2013 22:51:10 +0000</pubDate>
       
-      <guid>http://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</guid>
+      <guid>https://www.nullzero.io/posts/slow-mouse-in-server-2008-vm-console/</guid>
       <description>A while back I created a note about how to fix the slow mouse issue that sometimes happens even after installing VMware tools on a Server 2008 guest. The process is as follows:
 1. Make sure VMware tools is up to date
 2. You may need to update the VM hardware versions if this fix does not work.
